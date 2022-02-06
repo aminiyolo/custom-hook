@@ -2,7 +2,7 @@ import "./App.css";
 import ArrayComponent from "./useArray/ArrayComponent";
 import DebounceComponent from "./useDebounce/DebounceComponent";
 import InputComponent from "./useInput/InputComponent";
-import TimeoutComponent from "./useTimeout/useTimeout";
+import TimeoutComponent from "./useTimeout/TimeoutComponent";
 import ToggleComponent from "./useToggle/ToggleComponent";
 
 function App() {
